@@ -360,7 +360,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，欢迎使用GPT，[[点击查看使用说明]](https://1956.ai.1956.xyz)|[[自助下单]](https://www.wcfaka.com/links/CBCFBC6A)",
+    BotHello: "你好，欢迎使用GPT，[[点击查看使用说明]](https://1956.ai1956.xyz)|[[自助下单]](https://www.wcfaka.com/links/CBCFBC6A)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
