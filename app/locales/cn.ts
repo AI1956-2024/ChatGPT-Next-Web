@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请查看[使用方法](https://www.915x.com/)"
-      : "请在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      : "检测到无效 API Key，请查看[使用方法](https://www.915x.com/)",
   },
   Auth: {
     Title: "需要密码",
