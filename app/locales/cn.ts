@@ -360,8 +360,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "本网站即将升级更新，升级更新后继续提供免费的GPT。现在使用的版本也继续提供。本网站还提供视频生成体验超值套餐。 请点击下面入口进行查看"
-BotHello:" [[上传文件]](https://upload.gongxiangai.top/upload.php) | [[公告说明]](https://www.915x.com) |[[免费4.0]](https://www.915x.com/)| [[视频生成]](https://www.915x.com/)",
+    BotHello: "本网站即将升级更新，升级更新后继续提供免费的GPT。现在使用的版本也继续提供。本网站还提供视频生成体验超值套餐。 请点击下面入口进行查看[[上传文件]](https://upload.gongxiangai.top/upload.php) | [[公告说明]](https://www.915x.com) |[[免费4.0]](https://www.915x.com/)| [[视频生成]](https://www.915x.com/)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
